@@ -13,7 +13,7 @@ I believe technology should be accessible, inclusive, and serve the goal of maki
 ### Beyond code
 
 - Math modeling club member at Minerva, exploring data anti-clustering research
-- Interests spanning political science, fashion, and complex systems
+- Interests spanning political science, neuroscience, fashion, and complex systems
 - Board game and surfing enthusiast
 
 ### Connect & chat
