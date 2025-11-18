@@ -1,13 +1,13 @@
 ## Heyooooo, I'm Amina 🧉
 
-I love automating complex systems. My background spans competitive math, software, robotics engineering.
+I love automating systems. My background spans math, software, robotics engineering.
 
 
 I believe technology should be accessible, inclusive, and serve the goal of making the world a better place.
 
-**🌐 [View my full portfolio website](https://aminarhe.mmm.page/) for detailed project showcases - much of my work is in private repos or not on github.**
+**🌐 [View my full portfolio website](https://aminarhe.mmm.page/) for detailed project showcases.**
 
-Some topics that fascinate me: swarm intelligence, bio-inspired robotic designs, optimization problems, decision-making systems, computer vision. My go-to languages are Python and TypeScript.
+Some topics that fascinate me: optimization problems, swarm intelligence, bio-inspired robotic designs, decision-making systems, computer vision. My go-to languages are Python and TypeScript.
 Currently engaged in brain-computer interfaces and assistive robotics research in Buenos Aires.
 
 ### Beyond code
