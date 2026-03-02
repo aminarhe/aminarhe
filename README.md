@@ -12,7 +12,8 @@ my go-to languages are Python and TypeScript.
 ### beyond code
 
 - political science
-- board games and surfing
+- board games
+- surfing
 - real analysis fan
 - AI safety
 
