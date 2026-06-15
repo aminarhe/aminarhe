@@ -2,20 +2,16 @@
 
 I love automating systems. My background spans math, software, robotics.
 
-
 I believe technology should be accessible, inclusive, and serve the goal of making the world a better place.
 
-**🌐 [my portfolio](https://aminarhe.mmm.page/) for detailed project showcases.**
-
-my go-to languages are Python and TypeScript.
+**🌐 [my portfolio](https://aminarhe.me/) for detailed project showcases.**
 
 ### beyond code
 
-- political science
+- political science and history
+- AI safety
 - board games
 - surfing
-- real analysis fan
-- AI safety
 
 ### chat
 
