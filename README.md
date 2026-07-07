@@ -1,4 +1,4 @@
-## sup, I'm Amina
+## sup
 
 I love automating systems. My background spans math, software, robotics.
 
@@ -8,7 +8,7 @@ I believe technology should be accessible, inclusive, and serve the goal of maki
 
 ### beyond code
 
-- political science and history
+- political science
 - AI safety
 - board games
 - surfing
